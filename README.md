@@ -2,6 +2,6 @@
 
 This is the sample application for 
 
-[*One Monh Rails: Teach Yourself to Code*](http://www.onemonthrails.com
+[*One Monh Rails: Teach Yourself to Code*](http://www.onemonthrails.com)
 
 by [Mattan Griffel]()
